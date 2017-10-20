@@ -11,3 +11,8 @@ break allowance: ~30 mins
 
 - Publishing models
 - greant -> research -> results -> publish
+
+research lifecycle
+- idealised model
+
+open notebook research
