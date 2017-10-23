@@ -18,3 +18,12 @@
 ## collating different outputs
 
 ## intergrating different resources
+
+
+
+Other notebook approaches
+- http://wiki.wcaleb.rice.edu/
+- GitHub pages - https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
+
+open drafts of books - http://www.themacroscope.org/2.0/
+- http://dh-r.lincolnmullen.com/ 
