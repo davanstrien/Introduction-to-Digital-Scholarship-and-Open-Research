@@ -19,7 +19,6 @@ The Open Science Framework is a flexible tool which can be used across the whole
 
 Exploring exisitng projects on the Open Science Framework may help to get a better idea of how the Open Science Framework can be used to make research more open. These suggested come from a range of disciplines and have used the Open Science Framework in different ways.
 
-
 This project uses OSF to share underlying data and scripts for a published paper: Morís, Joaquín, Itxaso Barberia, Miguel A Vadillo, Ainhoa A Andrades, and Francisco J López. 2016. “Data and Scripts for ‘Slower Reacquisition after Partial Extinction in Human Contingency Learning.’” Open Science Framework. July 12. [osf.io/thrc6]().
 
 This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, Matt D White, David H Duncan, and Peter A Vesk. 2017. “BRT Model Building (training) Data Set.” Open Science Framework. May 3. [osf.io/jndyv]().
@@ -33,16 +32,16 @@ This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, M
 The following steps will help you setup an open notebook.
 
 ### Decide on a project
-Notebooks can be organised in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collobarative or not.
+Notebooks can be organised in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collobarative or not. As a starting point to making research more open it might be easier to start with a particular project. The Open Science Framework is usually organised at a project level although this can include multiple componetns or coalate other projects. This will be useful if you are working on a bigger project which involves different components or stages.
 
 ## Private or public?
 The Open Science Framework allows you to choose whether to make your project (or componets) of a project public. One of reservtions people often have about open science and/or open notebooks is making available materials which they feel are not yet ready for public consumption.
 
 
-## licensing your project
+## Licensing your project
 If you decide that you will make your notebook public, or you later decide to make it public, then it is important that it includes a license. A license will help ensure other people know under what terms they can use your work.
 
-You can asign a standard license to your open notebook or upload a custom license. It is almost always preferable to use a standard license rather than develop a custom one. If your notebook is part of a funded research project then your funder may encourage (or require) a particular license. 
+You can asign a standard license to your open notebook or upload a custom license. It is almost always preferable to use a standard license rather than develop a custom one. If your notebook is part of a funded research project then your funder may encourage (or require) a particular license.
 
 Sometimes you may want to use different licenses for different parts of your project for example:
 - Software/code: MIT
@@ -52,7 +51,8 @@ Sometimes you may want to use different licenses for different parts of your pro
 You can find more information on licensing [http://help.osf.io/m/bestpractices/l/611430-licensing]().
 
 
-## Fork/create notebook
+
+## Forking an existing notebook
 
 - Template for lab notebook - https://osf.io/sesm4/wiki/home/
 - templates for reproducing paper
@@ -65,6 +65,9 @@ You can find more information on licensing [http://help.osf.io/m/bestpractices/l
 
 
 ### README
+
+Data file README https://data.research.cornell.edu/content/readme
+
 
 #### Markdown (optional)
 
@@ -80,6 +83,10 @@ You can find more information on licensing [http://help.osf.io/m/bestpractices/l
 
 open drafts of books - http://www.themacroscope.org/2.0/
 - http://dh-r.lincolnmullen.com/
+
+## Further resources
+
+
 
 ---
 References  
