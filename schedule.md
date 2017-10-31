@@ -5,7 +5,7 @@ time - break: 3 hours
 ~1 hour presentation?
 ~2 hours hands-on?
 
-things to include:
+<!---things to include:
 
 - Open Science
 - Digital scholarship
@@ -14,7 +14,7 @@ things to include:
 - how to evaluate tools -> show some lists of tools - information overload. how to assess?
 - incentives for open science/research AND 'traditional research'
 - cultural and/or technical drivers
-
+- reproducability-->
 
 ## intro
 
@@ -56,7 +56,6 @@ Open"
 - ORCID ID
 - licensing
 - open notebook research?
-
 
 ## version control
 

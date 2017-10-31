@@ -27,7 +27,125 @@
 
 ---
 
-# Paper based publishing models
+# Paper based dissemination
 
-![Gutenberg](images/gutenberg_press.png)
+- originally letters
+- journal publishing
+- one to one
+- one to more
+
+---
+
+# Internet publishing
+
+- dissemination now not constrained by physical copies
+- costs of dissemination much lower
+- potential for one - to - many dissemination
+
+---
+
+# Barriers to access
+
+- open access publishing
+
+---
+
+# What's the point of open science?
+
+- dissemination not the only issue:
+  - reproducability
+  - reuse of data
+  - changing how research is done
+
+---
+
+# reproducability crisis?
+
+- A couple of examples
+
+---
+
+# Excel fail
+
+'Harvard University economists Carmen Reinhart and Kenneth Rogoff have acknowledged making a spreadsheet calculation mistake in a 2010 research paper, “Growth in a Time of Debt” (PDF), which has been widely cited to justify budget-cutting. But the authors stand by their conclusion that higher government debt is associated with slower economic growth. Here’s what you need to know:'
+https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history
+
+https://en.wikipedia.org/wiki/Growth_in_a_Time_of_Debt
+
+---
+
+https://www.nature.com/articles/ng.295
+
+---
+
+Over half of psychology studies fail reproducibility test
+https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
+
+---
+
+# solutions?
+
+- data
+- Software
+- methods
+- materials?
+- open project management?
+
+---
+
+# Reuse of data
+
+---
+
+# Reuse of code
+
+
+---
+
+# Digital Scholarship?
+
+---
+
+# Research lifecycle
+
+<!---image--->
+
+---
+
+# digital tools
+
+----
+
+# Easy wins
+
+- ORCID
+
+---
+
+# Principles of open research
+
+---
+
+# Open notebook research
+
+---
+
+
+# Licensing
+
+
+# Version control
+
+# forking
+
+# attribution
+
+# dissemination
+
+# discussion/conclusion
+
+---
+
+![Open Science Framework](https://nectar.org.au/wp-content/uploads/2016/03/COSLogo_OnWhite-e1456782304678.png)
+
 ---
