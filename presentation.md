@@ -1,7 +1,8 @@
-
-![](images/periander_the_scholar.jpg)
-
 ---
+author: Daniel van Strien, UCL, Library Services,
+title: An introduction to Digital Scholarship and Open Research
+---
+
 # Aim of session
 - Introduce and offer motivations for open science/research
 - Develop some ideas of how to implement Open Science/Research
@@ -14,41 +15,71 @@
 
 > 'Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods.' - [Foster](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
+---
+
+# Open Science vs Open Research
+
+> - The term 'open science' developed in the context of public finance
+> - Open Science can be applied to all disciplines?
+> - Open Research - if you don't want to call your research science
+
+
+---
 
 ## Digital Scholarship
 
 > “Digital Scholarship” is defined as any scholarly activity that makes extensive use of one or more of the new possibilities for teaching and research opened up by the unique affordances of digital media. These include, but are not limited to, new forms of collaboration, new forms of publication, and new methods for visualizing and analyzing data. - Demystifying the Digital Humanities, University of Washington
 
-> 'Making effective use of computers to do research' - Me
+> - 'Making effective use of new technologies'
 
 ---
 
 # Why?
 
+- What are the motivations behind Open Science/Research?
+
 ---
 
-# Paper based dissemination
+# A (brief) history of scientific dissemination
 
-- originally letters
-- journal publishing
-- one to one
-- one to more
+## Medieval Scientific communication
+
+The 10th century astronomer Abd al-Rahman al-Sufi (Azophi) carried out observations of the stars and described their positions, magnitudes, brightness, and colour and drawings for each constellation in his *Book of Fixed Stars*.
+
+![The constellation Sagittarius from The Depiction of Celestial Constellations - Abd al-Rahman al-Sufi](images/Book_Al_Sufi.jpg)
+
+---
+
+## The Printing Press
+
+Johannes Gutenberg developed his printing press around 1440. The invention of mass printing has been termed the 'printing revolution' and is creditied with contributing to social change.
+
+![Gutenberg Press](images/gutenberg_press.png)
 
 ---
 
 # Internet publishing
 
-- dissemination now not constrained by physical copies
-- costs of dissemination much lower
-- potential for one - to - many dissemination
+>'GGG is a purely electronic journal, with no paper edition. This opens up the possibilities of using true multimedia data types in the presentation of a paper. As the capabilities of the World Wide Web grow it will be feasible to have papers containing animations, sound, video, active computer models, etc.' - https://web.archive.org/web/19970709001656/http://ggg.qub.ac.uk:80/ggg/papers/index.html
+
+![GGG](images/GGG_journal.jpg)
+
 
 ---
+
 
 # Barriers to access
 
-- open access publishing
+> - Paywalls
+> - Library budgets
+> - Access for people not employed by a University
 
 ---
+
+# Open Access publishing
+
+---
+
 
 # What's the point of open science?
 
@@ -143,9 +174,5 @@ https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility
 # dissemination
 
 # discussion/conclusion
-
----
-
-![Open Science Framework](https://nectar.org.au/wp-content/uploads/2016/03/COSLogo_OnWhite-e1456782304678.png)
 
 ---
