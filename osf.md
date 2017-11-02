@@ -21,11 +21,11 @@ The Open Science Framework is a flexible tool which can be used across the whole
 
 ### Explore existing notebooks
 
-Exploring exisitng projects on the Open Science Framework may help to get a better idea of how the Open Science Framework can be used to make research more open. These suggested come from a range of disciplines and have used the Open Science Framework in different ways.
+Exploring existing projects on the Open Science Framework may help to get a better idea of how the Open Science Framework can be used to make research more open. These suggested come from a range of disciplines and have used the Open Science Framework in different ways.
 
-This project uses OSF to share underlying data and scripts for a published paper: Morís, Joaquín, Itxaso Barberia, Miguel A Vadillo, Ainhoa A Andrades, and Francisco J López. 2016. “Data and Scripts for ‘Slower Reacquisition after Partial Extinction in Human Contingency Learning.’” Open Science Framework. July 12. [osf.io/thrc6]().
+- This project uses OSF to share underlying data and scripts for a published paper: Morís, Joaquín, Itxaso Barberia, Miguel A Vadillo, Ainhoa A Andrades, and Francisco J López. 2016. “Data and Scripts for ‘Slower Reacquisition after Partial Extinction in Human Contingency Learning.’” Open Science Framework. July 12. [osf.io/thrc6]().
 
-This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, Matt D White, David H Duncan, and Peter A Vesk. 2017. “BRT Model Building (training) Data Set.” Open Science Framework. May 3. [osf.io/jndyv]().
+- This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, Matt D White, David H Duncan, and Peter A Vesk. 2017. “BRT Model Building (training) Data Set.” Open Science Framework. May 3. [osf.io/jndyv]().
 
 - Kardas, Michael, Juliana Schroeder, and Nicholas Epley. 2017. “Humanizing Voice, Political Beliefs.” Open Science Framework. September 29. osf.io/nm8vf.
 - IJzerman, Hans, Siegwart Lindenberg, İlker Dalğar, Michal Parzuchowski, Rodrigo Brito, Claudia Simao, Charles R Ebersole, et al. 2016. “The Human Penguin Project.” Open Science Framework. October 6. osf.io/2rm5b.
@@ -55,6 +55,9 @@ Sometimes you may want to use different licenses for different parts of your pro
 You can find more information on licensing [http://help.osf.io/m/bestpractices/l/611430-licensing]().
 
 
+## Collaborating
+
+- Add users
 
 ## Forking an existing notebook
 
@@ -67,8 +70,9 @@ You can find more information on licensing [http://help.osf.io/m/bestpractices/l
 
 ## Documentaion
 
+## Persisent identifiers
 
-### README
+### READMEs
 
 Data file README https://data.research.cornell.edu/content/readme
 
@@ -77,6 +81,7 @@ Data file README https://data.research.cornell.edu/content/readme
 
 
 ## Version control
+
 
 
 

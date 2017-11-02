@@ -158,6 +158,11 @@ Idea -> researching literature -> Data creation -> analysis -> publication
 
 ---
 
+# Data Management Plans
+
+---
+
+
 # Data generation/creation
 
 - open formats
@@ -166,29 +171,10 @@ Idea -> researching literature -> Data creation -> analysis -> publication
 
 ---
 
+# Data sharing
+
+
 # Publication
 
 - open access
 - open textbooks
-
-
----
-
-# Open notebook research
-
-
-
-# Licensing
-
-
-# Version control
-
-# forking
-
-# attribution
-
-# dissemination
-
-# discussion/conclusion
-
----
