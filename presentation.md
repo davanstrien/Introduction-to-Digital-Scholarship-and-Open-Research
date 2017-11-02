@@ -64,9 +64,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ![GGG](images/GGG_journal.jpg)
 
-
 ---
-
 
 # Barriers to access
 
@@ -78,21 +76,39 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Open Access publishing
 
----
-
-
-# What's the point of open science?
-
-- dissemination not the only issue:
-  - reproducability
-  - reuse of data
-  - changing how research is done
+> - Open Access publishing has begun to address some of the issues around access to published research
+> - Open Access monographs in early stages
+> - Open access publishing still largely mimics paper based publishing
 
 ---
 
-# reproducability crisis?
+# What are the aims of open science?
 
-- A couple of examples
+- Dissemination not the only issue:
+> - Reproducability
+> - reuse of data
+> - improving research
+
+---
+
+# A reproducability crisis?
+
+> - Claims that a number of disciplines have a reproducibility crisis
+> - Difficulty in verifying results of published research
+> - Lack of data, methods not clear, mistakes resulting from use of software, etc.
+
+---
+
+# Over half of psychology studies fail reproducibility test
+
+>'In the biggest project of its kind, Brian Nosek, a social psychologist and head of the Center for Open Science in Charlottesville, Virginia, and 269 co-authors repeated work reported in 98 original papers from three psychology journals, to see if they independently came up with the same results...only 39 of the 100 replication attempts were successful' - https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
+
+---
+
+# Sluggish data sharing hampers reproducibility effort
+
+> 'The Reproducibility Initiative: Cancer Biology consortium aims to repeat experiments from 50 highly-cited studies published in 2010–12 in journals such as Nature, Cell and Science, to see how easy it is to reproduce their findings. Although these journals require authors to share their data on request, it has taken two months on average to get the data for each paper...For one paper, securing the necessary data took a year. And the authors of four other papers have stopped communicating with the project altogether. In those instances, the journals that published the studies are stepping in to remind researchers of their responsibilities.' - http://www.nature.com/news/sluggish-data-sharing-hampers-reproducibility-effort-1.17694
+
 
 ---
 
@@ -105,61 +121,61 @@ https://en.wikipedia.org/wiki/Growth_in_a_Time_of_Debt
 
 ---
 
-https://www.nature.com/articles/ng.295
+
+# Digital Scholarship?
+
+- A partial way of addressing the aims of open science
 
 ---
 
-Over half of psychology studies fail reproducibility test
-https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
-
----
-
-# solutions?
+<!---## Problems and solutions
 
 - data
 - Software
 - methods
 - materials?
-- open project management?
+- open project management?-->
 
----
-
-# Reuse of data
-
----
-
-# Reuse of code
-
-
----
-
-# Digital Scholarship?
 
 ---
 
 # Research lifecycle
 
-<!---image--->
+Idea -> researching literature -> Data creation -> analysis -> publication
 
----
-
-# digital tools
 
 ----
 
-# Easy wins
+# Easy win
 
 - ORCID
 
 ---
 
-# Principles of open research
+# Beginning of research lifecycle
+
+## pre-registration
+
+---
+
+# Data generation/creation
+
+- open formats
+- documenation
+- crowdsourcing/ contribution
+
+---
+
+# Publication
+
+- open access
+- open textbooks
+
 
 ---
 
 # Open notebook research
 
----
 
 
 # Licensing
