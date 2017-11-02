@@ -1,6 +1,10 @@
-# Setting up an open notebook using the Open Science Framework
+---
+title: Open Science Framework
+author: Daniel van Strien
+---
 
-#### ORCID
+
+## ORCID
 
 The Open Science Framework allows intergration with ORCID ID. ORCID 'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'[^1]
 
