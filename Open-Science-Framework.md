@@ -41,15 +41,23 @@ Exploring existing projects on the Open Science Framework may help to get a bett
 ## Setting up your own notebook
 The following steps will help you setup an open notebook.
 
-## 1.  Decide on a project
+##  Decide on a project
 
 Notebooks can be organised in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collobarative or not. As a starting point to making research more open it might be easier to start with a particular project in mind. The Open Science Framework is usually organised at a project level although this can include multiple componetns or coalate other projects. This will be useful if you are working on a bigger project which involves different components or stages.
 
-## 2. Private or public?
+## Organising a project
+
+
+
+
+## Private or public?
 * The Open Science Framework allows you to choose whether to make your project (or componets) of a project public. One of reservtions people often have about open science and/or open notebooks is making available materials which they feel are not yet ready for public consumption. You could decide to make a 'hyptothetical' notebook either for a made up project, or a real project, and keep it private until you are more comfortable with sharing.
 
-* Although you can make a OSF notebook private you should **not** use it as a place to store personal or sensitive data. ze
+* Although you can make a OSF notebook private you should **not** use it as a place to store personal or sensitive data.
 
+* A potential approach is to use a private notebook during part of the research process and open it up at the end of the project.
+
+* You can also choose to make different components public or private. This offers some more granularity about what you share and when you share.
 
 
 ## Licensing your project

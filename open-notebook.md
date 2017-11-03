@@ -61,7 +61,7 @@ knowledge of the research outcomes. That commitment is usually accomplished by p
 
 # README
 
-A README is a particular kind of 
+A README can be used to explain how software, code or date works. A good README will be provide the information required to make use
 
 ---
 
