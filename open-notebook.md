@@ -7,14 +7,15 @@
 
 # More than a blog?
 
-![]
+> 'We will create a blog to promote the project'
 
 ---
 
 # Disciplinary differences in approach
 
 > - What is your 'data'
-> -
+> - How do you work?
+> - Teams or individual projects?
 
 ---
 
@@ -26,7 +27,7 @@
 
 ---
 
-# components of an open notebook
+# Components of an open notebook
 
 > - Depends on the project
 > - Depends on the aims behind your notebook
@@ -39,32 +40,42 @@
 > 'Preregistration of an analysis plan is committing to analytic steps without advance
 knowledge of the research outcomes. That commitment is usually accomplished by posting the analysis plan to an independent registry such as http://clinicaltrials.gov/ or http://osf.io/. The registry preserves the preregistration and makes it discoverable, sometimes after an embargo period. With preregistration, prediction is achieved because selection of tests is not influenced by the observed data, and all conducted tests are knowable. The analysis plan provides constraint to specify how the data will be used to confront the research questions.' - https://dx.doi.org/10.17605/OSF.IO/2DXU5
 
-
-
 ---
+
 
 # Documentaion
 
-- Documentation
--
+## For your notebook
+- What is your notebook for?
 
+## For your teams
+- Outline protocols
+- Record progress
+- Data Management Plan
 
+## For other people  
+- Explain your research process
+- Develop guidance on using your data or code
 
+---
+
+# README
+
+A README is a particular kind of 
 
 ---
 
 # Licensing
 
--
+
 - Choose a licence for project
 
 
 http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 
-
 ---
 
-# Software licenses
+## Software licenses
 
 ---
 

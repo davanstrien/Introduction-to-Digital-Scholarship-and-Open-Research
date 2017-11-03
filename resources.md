@@ -7,6 +7,7 @@
 
 # Software
 
+https://github.com/INRIA/awesome-open-science-software
 
 ## UCL resources
 - [Discovery](discovery.ucl.ac.uk)
