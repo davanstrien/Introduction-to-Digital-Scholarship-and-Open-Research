@@ -25,7 +25,6 @@ It is quick and free to create an account with the Open Science Framework.
 
 * If you a ORCID ID then you can use this to login to the open science framework.
 
-
 ## Getting Started
 
 The following steps will help you get started using an open notebook to practice more open research. The steps below will also outline some improtant compoenents of digital scholarship that a notebook can help you achieve.  
@@ -46,7 +45,7 @@ Exploring existing projects on the Open Science Framework may help to get a bett
 ## Setting up your own notebook
 The following steps will help you setup an open notebook.
 
-### Decide on a project
+### Deciding on a project
 
 Notebooks can be organised in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collobarative or not. As a starting point to making research more open it might be easier to start with a particular project in mind. The Open Science Framework is usually organised at a project level although this can include multiple componetns or coalate other projects. This will be useful if you are working on a bigger project which involves different components or stages.
 
@@ -55,8 +54,6 @@ Notebooks can be organised in different ways depending on the type of research y
 * The Open Science Framework allows you to choose whether to make your project (or componets) of a project public. One of reservtions people often have about open science and/or open notebooks is making available materials which they feel are not yet ready for public consumption. You could decide to make a 'hyptothetical' notebook either for a made up project, or a real project, and keep it private until you are more comfortable with sharing.
 
 * Although you can make a OSF notebook private you should **not** use it as a place to store personal or sensitive data. If you are workign with private or sensitive data you may still be able to use open notebooks for parts of your project which are non-sensitive.
-
-<!---add links--->
 
 ## License your project
 
@@ -69,9 +66,17 @@ Sometimes you may want to use different licenses for different parts of your pro
 - for raw data you might use CC0  
 - for Documentaion, wikis, and other outputs: CC-BY
 
-You can find more information on licensing using the Open Science Framework here:[http://help.osf.io/m/bestpractices/l/611430-licensing]().
+### Further guidance on licensing
 
-<!---Add links--->
+* You can find more information on licensing using the Open Science Framework here:[http://help.osf.io/m/bestpractices/l/611430-licensing]().
+
+* You can find more guidance on licencsnig data on UCL's Research Data Management pages: [http://www.ucl.ac.uk/library/research-support/research-data/best-practices/guides/sharing]().
+
+* Further guidance on Creative Commons licenses: [https://creativecommons.org]().
+
+* You can find further guidance on licensing software from the Software Sustainability Institue [https://www.software.ac.uk/choosing-open-source-licence]().
+
+
 
 ## Collaboration
 
@@ -92,35 +97,58 @@ You may find a 'template' project which have been created to help researchers us
 * A template for a lab notebook - [https://osf.io/sesm4/wiki/home/]()
 * 'Estimating the Reproducibility of Psychological Science' collects projects which were included in a project to repduce existing papers in physcology  [https://osf.io/ezcuj/wiki/home/]()
 
-
-
 ## New project
 
-## collating different outputs
+## organisation of an Open Science Framework project
 
-- Intergrating different services
 
+
+### Components
+
+Projects on a the Open Science Framework are organised around different components. These components can include software, code, documentation and other files associated with your project.
+
+There is no correct way to organise these components but it often useful to split them in ways which will be understood by someon outside of your project. Exploring other projects on the Open Science Framework may also give you ideas about the best ways to organise different components of a project.
+
+### File naming and organisation
+However you decide to organize different components of your project it is important that you organize your files and folders in a logical way.
+
+There are a number of ways you can make file names more useful:
+
+- Choose machine readable names: don't use spaces, punctuation or special characters.
+- Choose human readable names: try and use names that are meanginful and non-ambgious. Try and choose a name that could be understood by someone looking at your project without further explanation.
+
+You can find more guidance on best practices for file naming at: http://help.osf.io/m/bestpractices/l/609932-file-naming]().
+
+To organise your files effectively:
+
+- use clear names and locations for folders
+- aim to maintain a consisent approach to organisation throughout your researc process
+- seperate raw data from derived data
+- Make README files: this allows you to document what is included in each folder. Update this when you make changes.
+ 
+You can find more guidance on organizing files here: [http://help.osf.io/m/bestpractices/l/611391-organizing-files]().
+
+
+### Collating outputs - add-ons
+
+A useful feature of the Open Science Framework is that it will intergrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud providers, figshare, and Mendeley and Zotero citation managers.
 
 
 ## Documentaion
 
+
+
+
 ## Persisent identifiers
-
-### READMEs
-
-Data file README https://data.research.cornell.edu/content/readme
-
-
-#### Markdown (optional)
 
 
 ## Version control
 
-
-- http://help.osf.io/m/bestpractices
-
+The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: [http://help.osf.io/m/files/l/524182-file-revisions-and-version-control]().
 
 
+
+---
 
 ## Other notebook approaches
 - http://wiki.wcaleb.rice.edu/
