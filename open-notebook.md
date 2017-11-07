@@ -11,7 +11,7 @@
 > - data sharing
 > - code sharing
 > - facilate citizen science
-> - can be intergated into the research process
+> - can be intergated into existing research processes
 
 ---
 
@@ -25,7 +25,7 @@
 
 # How open?
 
-> - Don't have to share everything
+> - You don't have to share everything
 > - Consider what is useful for others
 > - The intention to be open could help improve your research practices
 
@@ -109,6 +109,8 @@ http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 # dissemination
 
 ---
+
+
 
 # Open Science Framework
 
