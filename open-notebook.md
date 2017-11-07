@@ -7,7 +7,11 @@
 
 # More than a blog?
 
-> 'We will create a blog to promote the project'
+> - documentation
+> - data sharing
+> - code sharing
+> - facilate citizen science
+> - can be intergated into the research process
 
 ---
 
@@ -35,10 +39,24 @@
 
 ---
 
+# Using open notebooks to faciliate more open research
+
+> - Open notebooks could be a good starting point for helping carry out more open research
+
+---
+
 # Pre-registration
 
-> 'Preregistration of an analysis plan is committing to analytic steps without advance
-knowledge of the research outcomes. That commitment is usually accomplished by posting the analysis plan to an independent registry such as http://clinicaltrials.gov/ or http://osf.io/. The registry preserves the preregistration and makes it discoverable, sometimes after an embargo period. With preregistration, prediction is achieved because selection of tests is not influenced by the observed data, and all conducted tests are knowable. The analysis plan provides constraint to specify how the data will be used to confront the research questions.' - https://dx.doi.org/10.17605/OSF.IO/2DXU5
+> 'Preregistration of an analysis plan is committing to analytic steps without advance knowledge of the research outcomes. That commitment is usually accomplished by posting the analysis plan to an independent registry such as http://clinicaltrials.gov/ or http://osf.io/. The registry preserves the preregistration and makes it discoverable, sometimes after an embargo period. With preregistration, prediction is achieved because selection of tests is not influenced by the observed data, and all conducted tests are knowable. The analysis plan provides constraint to specify how the data will be used to confront the research questions.' - https://dx.doi.org/10.17605/OSF.IO/2DXU5
+
+---
+
+# Preparing to share?
+
+> - organisation
+> - metadata
+> - Documentaion
+> - file formats
 
 ---
 
@@ -67,19 +85,17 @@ A README can be used to explain how software, code or date works. A good README 
 
 # Licensing
 
-
+## Licensing data
 - Choose a licence for project
-
 
 http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 
----
-
-## Software licenses
+## Licensing software
 
 ---
 
 # Version control
+
 
 ---
 # forking

@@ -127,12 +127,27 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 > 'Harvard University economists Carmen Reinhart and Kenneth Rogoff have acknowledged making a spreadsheet calculation mistake in a 2010 research paper, “Growth in a Time of Debt” (PDF), which has been widely cited to justify budget-cutting. But the authors stand by their conclusion that higher government debt is associated with slower economic growth. Here’s what you need to know:' - https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history
 
 ---
-
 # Availability of code and software
 
 > - Can you make sense of the data without code?
 > - Is the code accessible?
 > - How is it accessible? Binary vs source code
+> - Research software is another valuable research output
+
+---
+
+
+# Open Science: data reuse
+
+> - Data can be built on
+> - A valuable research output
+> - Examples: [nextstrain](http://www.nextstrain.org/), [UK Data Service](https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=107), [Archeology Data Service](http://archaeologydataservice.ac.uk/)
+
+---
+
+# Open Science: code reuse
+
+
 
 ---
 
@@ -160,3 +175,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 > - data collection
 > - data analysis
 > - publication
+
+---
+
+# How to 'do open science'?
