@@ -97,11 +97,11 @@ You may find a 'template' project which have been created to help researchers us
 * A template for a lab notebook - [https://osf.io/sesm4/wiki/home/]()
 * 'Estimating the Reproducibility of Psychological Science' collects projects which were included in a project to repduce existing papers in physcology  [https://osf.io/ezcuj/wiki/home/]()
 
-## New project
+## Creating a new project
 
-## organisation of an Open Science Framework project
+## Organisation of an Open Science Framework project
 
-
+The Open Science Framework provides a fairly flexible platform so there are different ways you coudl orgnaise a project. Some projects will only have a one or two files, whilst others will have numerous different components. Regardless of the scope of your project considering the issues below will help make your project more open.
 
 ### Components
 
@@ -125,7 +125,7 @@ To organise your files effectively:
 - aim to maintain a consisent approach to organisation throughout your researc process
 - seperate raw data from derived data
 - Make README files: this allows you to document what is included in each folder. Update this when you make changes.
- 
+
 You can find more guidance on organizing files here: [http://help.osf.io/m/bestpractices/l/611391-organizing-files]().
 
 
