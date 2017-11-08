@@ -27,7 +27,7 @@ It is quick and free to create an account with the Open Science Framework.
 
 ## Getting Started
 
-The following steps will help you get started using an open notebook to practice more open research. The steps below will also outline some improtant compoenents of digital scholarship that a notebook can help you achieve.  
+The following steps will help you get started using an open notebook to practice more open research. The steps below will also outline some improtant components of digital scholarship that a notebook can help you achieve.  
 
 ### Explore existing notebooks
 
@@ -76,8 +76,6 @@ Sometimes you may want to use different licenses for different parts of your pro
 
 * You can find further guidance on licensing software from the Software Sustainability Institue [https://www.software.ac.uk/choosing-open-source-licence]().
 
-
-
 ## Collaboration
 
 The Open Science Framework can help facilitate collaboration both witin a project team and with external collaborators. The Open Science Framework allows different types of contributors to be added to a project:
@@ -101,7 +99,7 @@ You may find a 'template' project which have been created to help researchers us
 
 ## Organisation of an Open Science Framework project
 
-The Open Science Framework provides a fairly flexible platform so there are different ways you coudl orgnaise a project. Some projects will only have a one or two files, whilst others will have numerous different components. Regardless of the scope of your project considering the issues below will help make your project more open.
+The Open Science Framework provides a fairly flexible platform so there are different ways you coudl orgnaise a project. Some projects will only have a one or two files, whilst others will have numerous different components. Regardless of the scope of your project considering the issues below will help make your project more open:
 
 ### Components
 
@@ -122,7 +120,7 @@ You can find more guidance on best practices for file naming at: http://help.osf
 To organise your files effectively:
 
 - use clear names and locations for folders
-- aim to maintain a consisent approach to organisation throughout your researc process
+- aim to maintain a consisent approach to organisation throughout your research process
 - seperate raw data from derived data
 - Make README files: this allows you to document what is included in each folder. Update this when you make changes.
 
@@ -136,7 +134,14 @@ A useful feature of the Open Science Framework is that it will intergrate with d
 
 ## Documentaion
 
+Good documentation is a central compontent of open research. Even if you do not intend to use open notebooks in the future good documentation can be valuable for a project and for the sharing of code and data.
 
+- https://github.com/OceanographyforEveryone/OpenCTD/blob/master/README.md
+- http://adni.loni.usc.edu/data-samples/data-faq/
+
+
+Software
+http://osdoc.cogsci.nl/3.1/notes/319/
 
 
 ## Persisent identifiers

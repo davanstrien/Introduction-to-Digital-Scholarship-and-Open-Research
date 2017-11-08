@@ -55,7 +55,7 @@
 
 > - organisation
 > - metadata
-> - Documentaion
+> - documentaion
 > - file formats
 
 ---
@@ -98,15 +98,17 @@ http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 
 
 ---
-# forking
+# Forking
+
 
 ---
 
-# attribution
+# Attribution
+
 
 ---
 
-# dissemination
+# Dissemination
 
 ---
 
