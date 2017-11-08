@@ -145,9 +145,11 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-# Open Science: code reuse
+# Open Science: research software
 
-
+- software can be built on
+- research software valuable output
+- Examples <!---todo--->
 
 ---
 
@@ -155,6 +157,15 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 - What are the other methods you used?
 - Are materials used clear?
+- http://oceanographyforeveryone.com/
+
+
+---
+
+# How to do open science: discussion?
+
+<!---think about activities--->
+
 
 ---
 
@@ -172,10 +183,18 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 > - ideas
 > - funding
-> - data collection
 > - data analysis
 > - publication
 
----
+# Asessing tools and approaches?
 
-# How to 'do open science'?
+- evaluating tools.
+
+|Tool  | Learing curve  | Open Source  | Data  |   |
+|---|---|---|---|---|
+| Open notebook   |   |   |   |   |
+| Prorgramming language  | steep  |   |   |   |
+|   |   |   |   |   |
+
+
+- Thoughts?
