@@ -1,15 +1,19 @@
 ---
-author: Daniel van Strien, UCL, Library Services,
+author: Daniel van Strien, UCL Library Services
 title: An introduction to Digital Scholarship and Open Research
 ---
 
-# Aim of session
-- Introduce open science/research
-- Outline
+
+# Aims of session
+- Provide an introduction to Open Science/Research 
+- Outline 
 - Develop some ideas of how to implement Open Science/Research
-> - Getting started - not the end of the process
+- Getting started - not the end of the process
 
 ---
+
+<!--TODO Schedule slide--->
+
 
 # Definitions
 
@@ -37,13 +41,20 @@ title: An introduction to Digital Scholarship and Open Research
 
 # Why?
 
-- What are the motivations behind Open Science?
+> - What are the motivations behind Open Science?
+> - 'Negative' and 'positive' motivations 
+> - Technological drivers, social drivers, economic drivers
 
 ---
 
 # A (brief) history of scientific dissemination
 
-## Medieval Scientific communication
+Technical changes that make more open science easier 
+
+
+---
+
+# Medieval Scientific communication
 
 The 10th century astronomer Abd al-Rahman al-Sufi (Azophi) carried out observations of the stars and described their positions, magnitudes, brightness, and colour and drawings for each constellation in his *Book of Fixed Stars*.
 
@@ -52,9 +63,9 @@ The 10th century astronomer Abd al-Rahman al-Sufi (Azophi) carried out observati
 
 ---
 
-## The Printing Press
+# The Printing Press
 
-Johannes Gutenberg developed his printing press around 1440. The invention of mass printing has been termed the 'printing revolution' and is creditied with contributing to social change.
+Johannes Gutenberg developed his printing press around 1440. The invention of mass printing has been termed the 'printing revolution' and is credited with contributing to social change.
 
 ![Gutenberg Press](images/gutenberg_press.png)
 
@@ -70,11 +81,13 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Barriers to access
 
-> - Paywalls
-> - Library budgets
-> - Access for people not employed by a University
+<!---TODO---> 
+
+![Serials Crisis](images/serials_crisis.jpg) 
+
 
 ---
+
 
 # Open Access publishing
 
