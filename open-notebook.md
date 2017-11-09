@@ -6,9 +6,22 @@
 ---
 
 # Examples 
+<!---TODO---> 
 
+
+
+---
+<!---TODO--->
+
+# A blog? 
+
+
+
+---
 
 # More than a blog?
+
+<!---TODO--->
 
 > - documentation
 > - data sharing
@@ -38,7 +51,7 @@
 
 > - Depends on the project
 > - Depends on the aims behind your notebook
-> - Reproducability, citizen Science, collobaration tool?
+> - Reproducibility, citizen Science§, collaboration tool?
 
 ---
 
