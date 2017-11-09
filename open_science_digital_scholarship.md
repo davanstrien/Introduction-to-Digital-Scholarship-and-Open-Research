@@ -88,6 +88,11 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
+> Most publishers own the rights to the articles in their journals. Anyone who wants to read the articles must pay to access them. Anyone who wants to use the articles in any way must obtain permission from the publisher and is often required to pay an additional fee.
+
+> Although many researchers can access the journals they need via their institution and think that access is free, in reality it is not. The institution has often been involved in lengthy negotiations around the price of their site license and reuse of this content is limited.
+
+> Paying for access to journals makes sense in the world of print publishing, where providing articles to each reader requires the production of physical copies of articles, but in the online world, with distribution as wide as the internet's reach, it makes much less sense. - https://www.plos.org/open-access/
 
 # Open Access publishing
 
@@ -97,16 +102,23 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-# What are the aims of open science?
+# Open Science: aims 
 
-> - Dissemination not the only issue:
-> - Reproducability
-> - reuse of data
-> - improving research
+- Moving beyond dissemination 
+
+## Negative drivers
+
+> - A reproducibility crisis?
+
+## Positive drivers
+
+> - Data access and reuse
+> - Access (and recognition) for research software
+> - Experiments with how to practice research
 
 ---
 
-# A reproducability crisis?
+# A reproducibility crisis?
 
 > - Claims that a number of disciplines have a reproducibility crisis
 > - Difficulty in verifying results of published research
@@ -116,7 +128,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Over half of psychology studies fail reproducibility test
 
->'In the biggest project of its kind, Brian Nosek, a social psychologist and head of the Center for Open Science in Charlottesville, Virginia, and 269 co-authors repeated work reported in 98 original papers from three psychology journals, to see if they independently came up with the same results...only 39 of the 100 replication attempts were successful' - https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
+> 'In the biggest project of its kind, Brian Nosek, a social psychologist and head of the Center for Open Science in Charlottesville, Virginia, and 269 co-authors repeated work reported in 98 original papers from three psychology journals, to see if they independently came up with the same results...only 39 of the 100 replication attempts were successful' - https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
 
 ---
 
@@ -175,10 +187,21 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
+# how to do open science
+
+<!---TODO--->
+
+- open access publication 
+- data 
+- software
+- steps you did documented 
+
+
+
 # How to do open science: discussion?
 
 <!---think about activities--->
-
+Pragmatic considerations
 
 ---
 
@@ -199,7 +222,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 > - data analysis
 > - publication
 
-# Asessing tools and approaches?
+# Assessing tools and approaches?
 
 - evaluating tools.
 
