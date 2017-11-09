@@ -1,9 +1,12 @@
 
 # Open notebook research?
 
-> 'Open notebook science is the practice of making the entire primary record of a research project publicly available online as it is recorded. This involves placing the personal, or laboratory, notebook of the researcher online along with all raw and processed data, and any associated material, as this material is generated.' -
+> 'Open notebook science is the practice of making the entire primary record of a research project publicly available online as it is recorded. This involves placing the personal, or laboratory, notebook of the researcher online along with all raw and processed data, and any associated material, as this material is generated.' - [https://en.wikipedia.org/wiki/Open_notebook_science]().
 
 ---
+
+# Examples 
+
 
 # More than a blog?
 
@@ -39,9 +42,13 @@
 
 ---
 
-# Using open notebooks to faciliate more open research
+# Using open notebooks to facilitate more open research
 
 > - Open notebooks could be a good starting point for helping carry out more open research
+
+<!---todo---> 
+Data sharing, code sharing, documentation, collobaration 
+
 
 ---
 
@@ -98,6 +105,7 @@ http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 
 
 ---
+
 # Forking
 
 
