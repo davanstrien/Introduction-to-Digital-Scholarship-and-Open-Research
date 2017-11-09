@@ -5,29 +5,29 @@
 
 ---
 
-# Examples 
-<!---TODO---> 
+# Examples
 
-
-
+* [Caleb McDaniel](http://wiki.wcaleb.rice.edu/_activity)
+* [Carl Boettiger](http://www.carlboettiger.info/2010/11/08/welcome-to-my-lab-notebook.html)
+* [Paper based notebook](https://github.com/cboettig/noise-phenomena)
+* https://notebook.andrewheiss.com/project/diss-ingos-in-autocracies/survey-completion-rates/
 ---
 <!---TODO--->
 
-# A blog? 
+# A blog?
 
-
+- Narrative based notebooks
+- Notebooks tracking day-to-day research activity
 
 ---
 
 # More than a blog?
 
-<!---TODO--->
-
-> - documentation
-> - data sharing
-> - code sharing
-> - facilate citizen science
-> - can be intergated into existing research processes
+- Documentation
+- Data sharing
+- Code sharing
+- Help facilate citizen science
+- Can be intergated into existing research processes
 
 ---
 
@@ -51,7 +51,7 @@
 
 > - Depends on the project
 > - Depends on the aims behind your notebook
-> - Reproducibility, citizen Science§, collaboration tool?
+> - Reproducibility, citizen Science, collaboration tool?
 
 ---
 
@@ -59,9 +59,9 @@
 
 > - Open notebooks could be a good starting point for helping carry out more open research
 
-<!---todo---> 
-Data sharing, code sharing, documentation, collobaration 
-
+> - Help with data sharing best practices
+> - Documentaion
+> - Faciliate colloboration
 
 ---
 
@@ -73,13 +73,12 @@ Data sharing, code sharing, documentation, collobaration
 
 # Preparing to share?
 
-> - organisation
-> - metadata
-> - documentaion
-> - file formats
+> - Organisation
+> - Metadata
+> - Documentaion
+> - File formats
 
 ---
-
 
 # Documentaion
 
@@ -97,30 +96,36 @@ Data sharing, code sharing, documentation, collobaration
 
 ---
 
-# README
-
-A README can be used to explain how software, code or date works. A good README will be provide the information required to make use
-
----
-
 # Licensing
 
-## Licensing data
-- Choose a licence for project
+A licence tells other people what they can do without having to ask you.
 
-http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
+## Licesing publication
+- Often defined by journal policies
+- Your funder may require a particular licence
+
+## Licensing data
+- Do you have copyright over your data?
+- Use a standard licence e.g. Creative Commons
+- Community standards [Pollar Commons](http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html)
 
 ## Licensing software
+- Choose an existing license
+- Does your software reuse code?
 
 ---
 
 # Version control
 
+Use some type of version control system for your data, code and other documentation.
 
----
+## Manual approaches
+- Systems for file naming e.g. 2017-10-07-documentation
 
-# Forking
-
+## Automated version control
+- [GitHub](https://github.com)
+- Open notebooks
+- Electronic lab notebooks
 
 ---
 
@@ -131,6 +136,9 @@ http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 
 # Dissemination
 
+- Use a persisent identifier (DOI)
+- Cite data, software and other materials in publication
+
 ---
 
 
@@ -140,6 +148,9 @@ http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html
 ![Research lifecycle](/images/research_lifecycle_original.png)
 
 
-Example projects
+# Example projects
 
 https://osf.io/w38tu/
+
+
+---

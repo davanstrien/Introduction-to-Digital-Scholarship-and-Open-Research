@@ -5,8 +5,8 @@ title: An introduction to Digital Scholarship and Open Research
 
 
 # Aims of session
-- Provide an introduction to Open Science/Research 
-- Outline 
+- Provide an introduction to Open Science/Research
+- Outline
 - Develop some ideas of how to implement Open Science/Research
 - Getting started - not the end of the process
 
@@ -42,14 +42,14 @@ title: An introduction to Digital Scholarship and Open Research
 # Why?
 
 > - What are the motivations behind Open Science?
-> - 'Negative' and 'positive' motivations 
+> - 'Negative' and 'positive' motivations
 > - Technological drivers, social drivers, economic drivers
 
 ---
 
 # A (brief) history of scientific dissemination
 
-Technical changes that make more open science easier 
+Technical changes that make more open science easier
 
 
 ---
@@ -81,9 +81,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Barriers to access
 
-<!---TODO---> 
+<!---TODO--->
 
-![Serials Crisis](images/serials_crisis.jpg) 
+![Serials Crisis](images/serials_crisis.jpg)
 
 
 ---
@@ -102,9 +102,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-# Open Science: aims 
+# Open Science: aims
 
-- Moving beyond dissemination 
+- Moving beyond dissemination
 
 ## Negative drivers
 
@@ -191,10 +191,10 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 <!---TODO--->
 
-- open access publication 
-- data 
+- open access publication
+- data
 - software
-- steps you did documented 
+- steps you did documented
 
 
 

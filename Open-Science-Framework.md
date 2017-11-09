@@ -108,6 +108,7 @@ Projects on a the Open Science Framework are organised around different componen
 There is no correct way to organise these components but it often useful to split them in ways which will be understood by someon outside of your project. Exploring other projects on the Open Science Framework may also give you ideas about the best ways to organise different components of a project.
 
 ### File naming and organisation
+
 However you decide to organize different components of your project it is important that you organize your files and folders in a logical way.
 
 There are a number of ways you can make file names more useful:
@@ -155,7 +156,10 @@ The Open Science Framework provides some support for versioning of files and doc
 
 ---
 
-## Other notebook approaches
+## Other approaches to Open Notebook Research
+
+
+
 - http://wiki.wcaleb.rice.edu/
 - GitHub pages - https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
 
