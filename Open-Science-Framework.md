@@ -82,9 +82,9 @@ Sometimes you may want to use different licenses for different parts of your pro
 
 The Open Science Framework can help facilitate collaboration both within a project team and with external collaborators. The Open Science Framework allows different types of contributors to be added to a project:
 
-- Administrators
-- read + write
-- read
+- Administrators - can add and remove members to a project
+- read + write - can add new materials and edit existing materials
+- read - can only view existing materials
 
 In addition to this you can also specify whether someone is a bibliographic or non-bibliographic contributor. A non-bibliographic contributor can read or write to a project but won't be included in the contributor list or in citations.
 
@@ -143,18 +143,18 @@ Good documentation is a central component of open research. Even if you do not i
 
 Existing examples of good practice can be useful for helping to decide what information should be included in documentation
 
-- [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
+- General: [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
+- Data: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://adni.loni.usc.edu/data-samples/data-faq/)
+- Software: [OpenSesame](http://osdoc.cogsci.nl/3.1/notes/319/)
 
-- https://github.com/OceanographyforEveryone/OpenCTD/blob/master/README.md
-- http://adni.loni.usc.edu/data-samples/data-faq/
+## READMEs
 
-
-Software
-http://osdoc.cogsci.nl/3.1/notes/319/
+<!---todo--->
 
 
 ## Persistent identifiers
 
+Persistent identifiers provide a stable way of referencing your research.
 
 
 ## Version control
@@ -162,11 +162,11 @@ http://osdoc.cogsci.nl/3.1/notes/319/
 The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: [http://help.osf.io/m/files/l/524182-file-revisions-and-version-control]().
 
 
-
 ---
 
 ## Other approaches to Open Notebook Research
 
+The Open Science Framework provides a useful tool for doing open notebook research without too much additional set up but there are other approaches to explor. 
 
 
 - http://wiki.wcaleb.rice.edu/
