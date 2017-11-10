@@ -26,8 +26,8 @@
 - Documentation
 - Data sharing
 - Code sharing
-- Help facilate citizen science
-- Can be intergated into existing research processes
+- Help facilitate citizen science
+- Can be integrated into existing research processes
 
 ---
 
@@ -60,8 +60,8 @@
 > - Open notebooks could be a good starting point for helping carry out more open research
 
 > - Help with data sharing best practices
-> - Documentaion
-> - Faciliate colloboration
+> - Documentation
+> - Facilitate collaboration
 
 ---
 
@@ -73,14 +73,14 @@
 
 # Preparing to share?
 
-> - Organisation
+> - Organization
 > - Metadata
-> - Documentaion
+> - Documentation
 > - File formats
 
 ---
 
-# Documentaion
+# Documentation
 
 ## For your notebook
 - What is your notebook for?
@@ -98,15 +98,15 @@
 
 # Licensing
 
-A licence tells other people what they can do without having to ask you.
+A license tells other people what they can do without having to ask you.
 
-## Licesing publication
+## Licensing publication
 - Often defined by journal policies
-- Your funder may require a particular licence
+- Your funder may require a particular license
 
 ## Licensing data
 - Do you have copyright over your data?
-- Use a standard licence e.g. Creative Commons
+- Use a standard license e.g. Creative Commons
 - Community standards [Pollar Commons](http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html)
 
 ## Licensing software
@@ -136,7 +136,7 @@ Use some type of version control system for your data, code and other documentat
 
 # Dissemination
 
-- Use a persisent identifier (DOI)
+- Use a persistent identifier (DOI)
 - Cite data, software and other materials in publication
 
 ---
