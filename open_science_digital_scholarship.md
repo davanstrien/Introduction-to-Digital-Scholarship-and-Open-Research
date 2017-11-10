@@ -25,7 +25,7 @@ title: An introduction to Digital Scholarship and Open Research
 
 # Open Science vs Open Research
 
-> - Term developed to emphaise public funding of most scientific research
+> - Term developed to emphasize public funding of most scientific research
 > - Open Science can be applied to all disciplines?
 > - Open Research - if you don't want to call your research science
 
@@ -81,23 +81,19 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Barriers to access
 
-<!---TODO--->
-
-![Serials Crisis](images/serials_crisis.jpg)
+ ![Serials Crisis](images/serials_crisis.jpg)
 
 
 ---
 
-> Most publishers own the rights to the articles in their journals. Anyone who wants to read the articles must pay to access them. Anyone who wants to use the articles in any way must obtain permission from the publisher and is often required to pay an additional fee.
-
-> Although many researchers can access the journals they need via their institution and think that access is free, in reality it is not. The institution has often been involved in lengthy negotiations around the price of their site license and reuse of this content is limited.
-
 > Paying for access to journals makes sense in the world of print publishing, where providing articles to each reader requires the production of physical copies of articles, but in the online world, with distribution as wide as the internet's reach, it makes much less sense. - https://www.plos.org/open-access/
+
+---
 
 # Open Access publishing
 
-> - Open Access publishing has begun to address some of the issues around access to published research
-> - Open Access monographs in early stages
+> - Open Access publishing address some of the issues around access to published research
+> - Open Access monographs still in early stages
 > - Open access publishing still largely mimics paper based publishing
 
 ---
@@ -187,21 +183,20 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-# how to do open science
+# How to do open science?
 
-<!---TODO--->
+- Make publication available open access (UCL Discovery, Gold Open Access)
+- Make data associated with publications available (Discipline or general research data repository)
+- Make software, code, scripts available
+- Make the steps you took (documentation available)
 
-- open access publication
-- data
-- software
-- steps you did documented
-
-
+---
 
 # How to do open science: discussion?
 
-<!---think about activities--->
-Pragmatic considerations
+- Pragmatic considerations?
+- Is it worth it?
+- Barriers?
 
 ---
 
@@ -224,13 +219,10 @@ Pragmatic considerations
 
 # Assessing tools and approaches?
 
-- evaluating tools.
+## Evaluating tools, services and approaches
 
-|Tool  | Learing curve  | Open Source  | Data  |   |
-|---|---|---|---|---|
-| Open notebook   |   |   |   |   |
-| Prorgramming language  | steep  |   |   |   |
-|   |   |   |   |   |
+- Effort vs reward
+- keep your data?
+- cost?
 
-
-- Thoughts?
+<!---TODO table--->
