@@ -143,14 +143,15 @@ Good documentation is a central component of open research. Even if you do not i
 
 Existing examples of good practice can be useful for helping to decide what information should be included in documentation
 
-- General: [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
-- Data: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://adni.loni.usc.edu/data-samples/data-faq/)
-- Software: [OpenSesame](http://osdoc.cogsci.nl/3.1/notes/319/)
+- A general example of good documentation for a project:  [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
+- An example of providing an FAQ on a data source: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://adni.loni.usc.edu/data-samples/data-faq/)
+- An example of documentation for a research software tool [OpenSesame](http://osdoc.cogsci.nl/3.1/notes/319/)
 
 ## READMEs
 
-<!---todo--->
+A README is often distributed with software, code or a dataset(s). A good README will provide information necessary for users to understand how to use the outputs you are sharing.
 
+A README may provide information on instruments used, the types of experiments carried out to produce a given dataset, dependencies for software or particular considerations around how a dataset should be interpreted and analyzed. A README can also be a useful document within a team and help new team members understand how previous work was done. Equally it can be an efficient way of documenting a project at a 'lower level'.
 
 ## Persistent identifiers
 
@@ -162,20 +163,30 @@ Persistent identifiers provide a stable way of referencing your research.
 The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: [http://help.osf.io/m/files/l/524182-file-revisions-and-version-control]().
 
 
+
 ---
 
 ## Other approaches to Open Notebook Research
 
-The Open Science Framework provides a useful tool for doing open notebook research without too much additional set up but there are other approaches to explor. 
+The Open Science Framework provides a useful tool for doing open notebook research without too much additional set up but there are other approaches you could explore.
 
+- A 'wiki' based approach which primarily collects notes gathered from visits to archives and engagements with other primary and secondary materials. [http://wiki.wcaleb.rice.edu/]().
 
-- http://wiki.wcaleb.rice.edu/
-- GitHub pages - https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
+- GitHub Pages provide an easy way of building a version controlled website. This [tutorial](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) outlines how to setup a GitHub pages website. This approach could be adapted to use on a narrative based open notebook.
 
-open drafts of books - http://www.themacroscope.org/2.0/
-- http://dh-r.lincolnmullen.com/
+### Open book drafts
 
-## Further resources
+These examples demonstrate the potential use of open notebook approaches for books and textbooks.
+
+[The Historian's Macroscope: Big Digital History - An experiment in writing in public, one page at a time, by S. Graham, I. Milligan, & S. Weingart](http://www.themacroscope.org/2.0/)
+
+- [Computational Historical Thinking With Applications in R](http://dh-r.lincolnmullen.com/)
+
+## Further Resources on using the Open Science Framework
+
+https://osf.io/support/
+
+https://groups.google.com/forum/#!forum/openscienceframework
 
 
 
