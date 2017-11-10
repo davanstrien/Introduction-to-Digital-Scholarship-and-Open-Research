@@ -184,9 +184,9 @@ These examples demonstrate the potential use of open notebook approaches for boo
 
 ## Further Resources on using the Open Science Framework
 
-https://osf.io/support/
+- The Open Science Framework provides documentation, support and FAQs [here](https://osf.io/support/)
 
-https://groups.google.com/forum/#!forum/openscienceframework
+- The Open Science Framework has regular webinars. Their mailing list will advertise upcoming webinars[https://groups.google.com/forum/#!forum/openscienceframework]().
 
 
 
