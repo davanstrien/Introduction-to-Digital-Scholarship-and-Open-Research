@@ -1,4 +1,4 @@
----
+organized---
 title: Open Science Framework
 author: Daniel van Strien
 ---
@@ -15,11 +15,11 @@ It is quick and free to create an account with the Open Science Framework.
 
 ### ORCID ID
 
-* The Open Science Framework allows intergration with ORCID ID. ORCID 'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'[^1]
+* The Open Science Framework allows integration with ORCID ID. ORCID 'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'[^1]
 
 * You can register easily for an ORCID at [https://orcid.org/register](). It is a good idea to use a personal email so that you can easily move your ORCID ID if you change institutions.
 
-* Once you have created an ORCID ID you will be able to more easily attribute work you have done to yourself. This can be particuarly useful if you have a common name.
+* Once you have created an ORCID ID you will be able to more easily attribute work you have done to yourself. This can be particularly useful if you have a common name.
 
 ## Login
 
@@ -27,7 +27,7 @@ It is quick and free to create an account with the Open Science Framework.
 
 ## Getting Started
 
-The following steps will help you get started using an open notebook to practice more open research. The steps below will also outline some improtant components of digital scholarship that a notebook can help you achieve.  
+The following steps will help you get started using an open notebook to practice more open research. The steps below will also outline some important components of digital scholarship that a notebook can help you achieve.  
 
 ### Explore existing notebooks
 
@@ -47,24 +47,24 @@ The following steps will help you setup an open notebook.
 
 ### Deciding on a project
 
-Notebooks can be organised in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collobarative or not. As a starting point to making research more open it might be easier to start with a particular project in mind. The Open Science Framework is usually organised at a project level although this can include multiple componetns or coalate other projects. This will be useful if you are working on a bigger project which involves different components or stages.
+Notebooks can be organized in different ways depending on the type of research you carry out, what you want to use a notebook for and whether the notebook will be collaborative or not. As a starting point to making research more open it might be easier to start with a particular project in mind. The Open Science Framework is usually organized at a project level although this can include multiple components or collate other projects. This will be useful if you are working on a bigger project which involves different components or stages.
 
 ## Private or public?
 
-* The Open Science Framework allows you to choose whether to make your project (or componets) of a project public. One of reservtions people often have about open science and/or open notebooks is making available materials which they feel are not yet ready for public consumption. You could decide to make a 'hyptothetical' notebook either for a made up project, or a real project, and keep it private until you are more comfortable with sharing.
+* The Open Science Framework allows you to choose whether to make your project (or components) of a project public. One of reservations people often have about open science and/or open notebooks is making available materials which they feel are not yet ready for public consumption. You could decide to make a 'hypothetical' notebook either for a made up project, or a real project, and keep it private until you are more comfortable with sharing.
 
-* Although you can make a OSF notebook private you should **not** use it as a place to store personal or sensitive data. If you are workign with private or sensitive data you may still be able to use open notebooks for parts of your project which are non-sensitive.
+* Although you can make a OSF notebook private you should **not** use it as a place to store personal or sensitive data. If you are working with private or sensitive data you may still be able to use open notebooks for parts of your project which are non-sensitive.
 
 ## License your project
 
 If you decide that you will make your notebook public, or you later decide to make it public, then it is important that it includes a license. A license will help ensure other people know under what terms they can use your work.
 
-You can asign a standard license to your open notebook or upload a custom license. Most of the time it is preferable to use a standard license rather than develop a custom one. If your notebook is part of a funded research project then your funder may encourage (or require) a particular license.
+You can assign a standard license to your open notebook or upload a custom license. Most of the time it is preferable to use a standard license rather than develop a custom one. If your notebook is part of a funded research project then your funder may encourage (or require) a particular license.
 
 Sometimes you may want to use different licenses for different parts of your project for example:
-- for software/code you may use an MIT licence
+- for software/code you may use an MIT license
 - for raw data you might use CC0  
-- for Documentaion, wikis, and other outputs: CC-BY
+- for Documentation, wikis, and other outputs: CC-BY
 
 ### Further guidance on licensing
 
