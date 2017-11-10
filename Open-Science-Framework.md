@@ -178,7 +178,7 @@ The Open Science Framework provides a useful tool for doing open notebook resear
 
 These examples demonstrate the potential use of open notebook approaches for books and textbooks.
 
-[The Historian's Macroscope: Big Digital History - An experiment in writing in public, one page at a time, by S. Graham, I. Milligan, & S. Weingart](http://www.themacroscope.org/2.0/)
+[The Historian's Macroscope: Big Digital History - An experiment in writing in public, one page at a time, by iS. Graham, I. Milligan, & S. Weingart](http://www.themacroscope.org/2.0/)
 
 - [Computational Historical Thinking With Applications in R](http://dh-r.lincolnmullen.com/)
 
