@@ -20,10 +20,13 @@
 
 ## Pre-registration
 
-### P-hacking
-- https://projects.fivethirtyeight.com/p-hacking/
+- The Centre for Open Science runs a ['pre-registration challenge'](https://cos.io/prereg) - 'Through our $1 Million Preregistration Challenge, we're giving away $1,000 to 1,000 researchers who preregister their projects before they publish them. It's straightforward to complete and will really enhance your research output.' 
+
+- [The Preregistration Revolution](https://dx.doi.org/10.17605/OSF.IO/2DXU5) outlines the aims and benefits of pre-registration in more detail. 
 
 # Research Software
+
+
 
 https://github.com/INRIA/awesome-open-science-software
 
