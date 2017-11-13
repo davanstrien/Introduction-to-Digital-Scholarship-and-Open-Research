@@ -15,7 +15,7 @@ It is quick and free to create an account with the Open Science Framework.
 
 ### ORCID ID
 
-* The Open Science Framework allows integration with ORCID ID. ORCID 'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'[^1]
+* The Open Science Framework allows integration with ORCID ID. ORCID []'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'](https://orcid.org/register)
 
 * You can register easily for an ORCID at <https://orcid.org/register>. It is a good idea to use a personal email so that you can easily move your ORCID ID if you change institutions.
 
@@ -178,7 +178,7 @@ The Open Science Framework provides a useful tool for doing open notebook resear
 
 These examples demonstrate the potential use of open notebook approaches for books and textbooks.
 
-[The Historian's Macroscope: Big Digital History - An experiment in writing in public, one page at a time, by iS. Graham, I. Milligan, & S. Weingart](http://www.themacroscope.org/2.0/)
+- [The Historian's Macroscope: Big Digital History - An experiment in writing in public, one page at a time, by iS. Graham, I. Milligan, & S. Weingart](http://www.themacroscope.org/2.0/)
 
 - [Computational Historical Thinking With Applications in R](http://dh-r.lincolnmullen.com/)
 
@@ -186,10 +186,4 @@ These examples demonstrate the potential use of open notebook approaches for boo
 
 - The Open Science Framework provides documentation, support and FAQs [here](https://osf.io/support/)
 
-- The Open Science Framework has regular webinars. Their mailing list will advertise upcoming webinars[https://groups.google.com/forum/#!forum/openscienceframework]().
-
-
-
----
-References  
-[^1]: https://orcid.org/
+- The Open Science Framework has regular webinars. The OSF [mailing list](https://groups.google.com/forum/#!forum/openscienceframework) will advertise upcoming webinars.
