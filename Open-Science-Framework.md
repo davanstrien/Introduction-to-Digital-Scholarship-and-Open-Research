@@ -17,7 +17,7 @@ It is quick and free to create an account with the Open Science Framework.
 
 * The Open Science Framework allows integration with ORCID ID. ORCID 'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'[^1]
 
-* You can register easily for an ORCID at [https://orcid.org/register](). It is a good idea to use a personal email so that you can easily move your ORCID ID if you change institutions.
+* You can register easily for an ORCID at <https://orcid.org/register>. It is a good idea to use a personal email so that you can easily move your ORCID ID if you change institutions.
 
 * Once you have created an ORCID ID you will be able to more easily attribute work you have done to yourself. This can be particularly useful if you have a common name.
 
@@ -33,12 +33,12 @@ The following steps will help you get started using an open notebook to practice
 
 Exploring existing projects on the Open Science Framework may help to get a better idea of how the Open Science Framework can be used to make research more open. These suggested come from a range of disciplines and have used the Open Science Framework in different ways.
 
-- This project uses OSF to share underlying data and scripts for a published paper: Morís, Joaquín, Itxaso Barberia, Miguel A Vadillo, Ainhoa A Andrades, and Francisco J López. 2016. “Data and Scripts for ‘Slower Reacquisition after Partial Extinction in Human Contingency Learning.’” Open Science Framework. July 12. [https://osf.io/thrc6]().
+- This project uses OSF to share underlying data and scripts for a published paper: Morís, Joaquín, Itxaso Barberia, Miguel A Vadillo, Ainhoa A Andrades, and Francisco J López. 2016. “Data and Scripts for ‘Slower Reacquisition after Partial Extinction in Human Contingency Learning.’” Open Science Framework. July 12. <https://osf.io/thrc6>
 
-- This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, Matt D White, David H Duncan, and Peter A Vesk. 2017. “BRT Model Building (training) Data Set.” Open Science Framework. May 3. [https://osf.io/jndyv]().
+- This project shares data for a forthcoming paper: Read, Cassia F, Chiu Y C Ho, Matt D White, David H Duncan, and Peter A Vesk. 2017. “BRT Model Building (training) Data Set.” Open Science Framework. May 3. <https://osf.io/jndyv>
 
 - Kardas, Michael, Juliana Schroeder, and Nicholas Epley. 2017. “Humanizing Voice, Political Beliefs.” Open Science Framework. September 29. osf.io/nm8vf.
-- IJzerman, Hans, Siegwart Lindenberg, İlker Dalğar, Michal Parzuchowski, Rodrigo Brito, Claudia Simao, Charles R Ebersole, et al. 2016. “The Human Penguin Project.” Open Science Framework. October 6. [https://osf.io/2rm5b]().
+- IJzerman, Hans, Siegwart Lindenberg, İlker Dalğar, Michal Parzuchowski, Rodrigo Brito, Claudia Simao, Charles R Ebersole, et al. 2016. “The Human Penguin Project.” Open Science Framework. October 6. <https://osf.io/2rm5b>
 
 - Amon, Hanna, Molly Sterlacci, Åse Innes-Ker, and Anna, Ph.D. Kemdal Pho. 2015. “Do Swedish and American Subjects Exhibit Differences in Well-Being, Life Satisfaction and Emotion Regulation?” Open Science Framework. October 29. <https://osf.io/d6rks>
 
@@ -70,13 +70,13 @@ Sometimes you may want to use different licenses for different parts of your pro
 
 ### Further guidance on licensing
 
-* You can find more information on licensing using the Open Science Framework here:[http://help.osf.io/m/bestpractices/l/611430-licensing]().
+* You can find more information on licensing using the Open Science Framework here:<http://help.osf.io/m/bestpractices/l/611430-licensing>
 
-* You can find more guidance on licensing data on UCL's Research Data Management pages: [http://www.ucl.ac.uk/library/research-support/research-data/best-practices/guides/sharing]().
+* You can find more guidance on licensing data on UCL's Research Data Management pages: <http://www.ucl.ac.uk/library/research-support/research-data/best-practices/guides/sharing>
 
-* Further guidance on Creative Commons licenses: [https://creativecommons.org]().
+* Further guidance on Creative Commons licenses: <https://creativecommons.org>
 
-* You can find further guidance on licensing software from the Software Sustainability Institute [https://www.software.ac.uk/choosing-open-source-licence]().
+* You can find further guidance on licensing software from the Software Sustainability Institute <https://www.software.ac.uk/choosing-open-source-licence>
 
 ## Collaboration
 
@@ -94,8 +94,8 @@ The Open Science Framework allows you to fork public projects. 'Forking' a proje
 
 You may find a 'template' project which have been created to help researchers use the Open Science Framework for particular use cases or be able to fork an project which is similar to yours:
 
-* A template for a lab notebook - [https://osf.io/sesm4/wiki/home/]()
-* 'Estimating the Reproducibility of Psychological Science' collects projects which were included in a project to reproduce existing papers in phycology  [https://osf.io/ezcuj/wiki/home/]()
+* A template for a lab notebook - <https://osf.io/sesm4/wiki/home/>
+* 'Estimating the Reproducibility of Psychological Science' collects projects which were included in a project to reproduce existing papers in psychology <https://osf.io/ezcuj/wiki/home>
 
 ## Creating a new project
 
@@ -118,7 +118,7 @@ There are a number of ways you can make file names more useful:
 - Choose machine readable names: don't use spaces, punctuation or special characters.
 - Choose human readable names: try and use names that are meaningful and non-ambiguous. Try and choose a name that could be understood by someone looking at your project without further explanation.
 
-You can find more guidance on best practices for file naming at: http://help.osf.io/m/bestpractices/l/609932-file-naming]().
+You can find more guidance on best practices for file naming at: <http://help.osf.io/m/bestpractices/l/609932-file-naming>
 
 To organize your files effectively:
 
@@ -127,12 +127,12 @@ To organize your files effectively:
 - separate raw data from derived data
 - Make README files: this allows you to document what is included in each folder. Update this when you make changes.
 
-You can find more guidance on organizing files here: [http://help.osf.io/m/bestpractices/l/611391-organizing-files]().
+You can find more guidance on organizing files here: <http://help.osf.io/m/bestpractices/l/611391-organizing-files>
 
 
 ### Collating outputs - add-ons
 
-A useful feature of the Open Science Framework is that it will integrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud storage providers, [Figshare](https://figshare.com/), and [Mendeley](https://www.mendeley.com/) and [Zotero](https://www.zotero.org/) citation managers.
+A useful feature of the Open Science Framework is that it will integrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud storage providers, [Figshare][https://figshare.com], and [Mendeley][https://www.mendeley.com/] and [Zotero][https://www.zotero.org/] citation managers.
 
 
 ## Documentation
@@ -143,9 +143,9 @@ Good documentation is a central component of open research. Even if you do not i
 
 Existing examples of good practice can be useful for helping to decide what information should be included in documentation
 
-- A general example of good documentation for a project:  [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
-- An example of providing an FAQ on a data source: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://adni.loni.usc.edu/data-samples/data-faq/)
-- An example of documentation for a research software tool [OpenSesame](http://osdoc.cogsci.nl/3.1/notes/319/)
+- A general example of good documentation for a project:  [OceanographyforEveryone/OpenCTD][https://github.com/OceanographyforEveryone/OpenCTD]
+- An example of providing an FAQ on a data source: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)][http://adni.loni.usc.edu/data-samples/data-faq/]
+- An example of documentation for a research software tool [OpenSesame][http://osdoc.cogsci.nl/3.1/notes/319/]
 
 ## READMEs
 
@@ -160,7 +160,7 @@ Persistent identifiers provide a stable way of referencing your research.
 
 ## Version control
 
-The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: [http://help.osf.io/m/files/l/524182-file-revisions-and-version-control]().
+The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: <http://help.osf.io/m/files/l/524182-file-revisions-and-version-control>.
 
 
 
@@ -172,7 +172,7 @@ The Open Science Framework provides a useful tool for doing open notebook resear
 
 - A 'wiki' based approach which primarily collects notes gathered from visits to archives and engagements with other primary and secondary materials. [http://wiki.wcaleb.rice.edu/]().
 
-- GitHub Pages provide an easy way of building a version controlled website. This [tutorial](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) outlines how to setup a GitHub pages website. This approach could be adapted to use on a narrative based open notebook.
+- GitHub Pages provide an easy way of building a version controlled website. This [tutorial][https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages] outlines how to setup a GitHub pages website. This approach could be adapted to use on a narrative based open notebook.
 
 ### Open book drafts
 
