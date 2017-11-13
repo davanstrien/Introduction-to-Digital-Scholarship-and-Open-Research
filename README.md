@@ -1,8 +1,16 @@
 # An Introduction to Digital Scholarship and Open Research
 
-Workshop materials for a course introducing digital scholarship and open research
+This repository collects workshop materials for a course introducing digital scholarship and open research through Open Notebook research using the Open Science Framework as an example. 
 
+## Slides
+
+You can find slides on Open Science and Digtial Scholarship and Open Notebook Research. 
+
+The slides were produced using pandoc and Beamer using the [UCL Beamer Template](https://github.com/UCL/ucl-beamer) by Simon Byrne (based on the original template by Maurizio Filippone). 
+
+TODO - Tidy slide source and output and create Makefile to produce slides from Markdown source. 
 
 ## Creating an open notebook using the Open Science Framework
 
 Guidance on creating an open notebook can be found [here](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/Open-Science-Framework.md)
+
