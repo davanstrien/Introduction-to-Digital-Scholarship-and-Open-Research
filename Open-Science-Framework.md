@@ -132,7 +132,7 @@ You can find more guidance on organizing files here: <http://help.osf.io/m/bestp
 
 ### Collating outputs - add-ons
 
-A useful feature of the Open Science Framework is that it will integrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud storage providers, [Figshare][https://figshare.com], and [Mendeley][https://www.mendeley.com/] and [Zotero][https://www.zotero.org/] citation managers.
+A useful feature of the Open Science Framework is that it will integrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud storage providers, [Figshare](https://figshare.com), and [Mendeley](https://www.mendeley.com/) and [Zotero](https://www.zotero.org/) citation managers.
 
 
 ## Documentation
@@ -143,9 +143,9 @@ Good documentation is a central component of open research. Even if you do not i
 
 Existing examples of good practice can be useful for helping to decide what information should be included in documentation
 
-- A general example of good documentation for a project:  [OceanographyforEveryone/OpenCTD][https://github.com/OceanographyforEveryone/OpenCTD]
-- An example of providing an FAQ on a data source: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)][http://adni.loni.usc.edu/data-samples/data-faq/]
-- An example of documentation for a research software tool [OpenSesame][http://osdoc.cogsci.nl/3.1/notes/319/]
+- A general example of good documentation for a project:  [OceanographyforEveryone/OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD)
+- An example of providing an FAQ on a data source: [Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://adni.loni.usc.edu/data-samples/data-faq/)
+- An example of documentation for a research software tool [OpenSesame](http://osdoc.cogsci.nl/3.1/notes/319/)
 
 ## READMEs
 
