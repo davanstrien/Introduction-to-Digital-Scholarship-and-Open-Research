@@ -107,9 +107,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-# Open Science: aims
-
-- Moving beyond dissemination
+# Open Science: motivations and drivers
 
 ## Negative drivers
 
@@ -117,6 +115,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ## Positive drivers
 
+> - Research funders, government and university policies
 > - Data access and reuse
 > - Access (and recognition) for research software
 > - Experiments with how to practice research
@@ -166,6 +165,15 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
+# Open Science: funder policies
+
+> - Majority of funders (and REF) require open access publising
+> - Increasingly funders are enouraging the sharing of research data
+> - Wellcome Open Science Prize and 'outputs management plan'
+> - EU 2020 promtion of open science
+
+---
+
 
 # Open Science: data reuse
 
@@ -177,9 +185,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Open Science: research software
 
-- software can be built on
-- research software valuable output
-- Examples <!---todo--->
+- Software and code increasingly important part of research
+- Research software increasingly recognised as a valuable output
+- [Depsy](http://depsy.org/)
 
 ---
 
@@ -197,13 +205,14 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 - Make publication available open access (UCL Discovery, Gold Open Access)
 - Make data associated with publications available (Discipline or general research data repository)
 - Make software, code, scripts available
-- Make the steps you took (documentation available)
+- Make the steps you took (documentation) available
 
 ---
 
 # How to do open science: discussion?
 
 - Pragmatic considerations?
+- Motivations?
 - Is it worth it?
 - Barriers?
 
@@ -218,8 +227,7 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ---
 
-
-# Research lifecycle
+# Research lifecycle: where to use new tools?
 
 > - ideas
 > - funding
@@ -228,10 +236,8 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Assessing tools and approaches?
 
-## Evaluating tools, services and approaches
-
 - Effort vs reward
-- keep your data?
-- cost?
+- Can you keep your data?
+- Costs
 
-<!---TODO table--->
+# Open notebooks?

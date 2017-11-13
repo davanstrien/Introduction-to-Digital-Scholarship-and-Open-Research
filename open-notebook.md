@@ -1,3 +1,7 @@
+---
+title: Open Notebook research
+---
+
 
 # Open notebook research?
 
@@ -11,9 +15,8 @@
 * [Carl Boettiger](http://www.carlboettiger.info/2010/11/08/welcome-to-my-lab-notebook.html)
 * [Paper based notebook](https://github.com/cboettig/noise-phenomena)
 * https://notebook.andrewheiss.com/project/diss-ingos-in-autocracies/survey-completion-rates/
----
-<!---TODO--->
 
+---
 # A blog?
 
 - Narrative based notebooks
@@ -104,10 +107,15 @@ A license tells other people what they can do without having to ask you.
 - Often defined by journal policies
 - Your funder may require a particular license
 
+---
+
+
 ## Licensing data
 - Do you have copyright over your data?
 - Use a standard license e.g. Creative Commons
 - Community standards [Pollar Commons](http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html)
+
+---
 
 ## Licensing software
 - Choose an existing license
@@ -130,7 +138,8 @@ Use some type of version control system for your data, code and other documentat
 ---
 
 # Attribution
-
+- Make your material citable
+- Cite software, code and data you use
 
 ---
 
@@ -141,16 +150,10 @@ Use some type of version control system for your data, code and other documentat
 
 ---
 
-
-
 # Open Science Framework
 
-![Research lifecycle](/images/research_lifecycle_original.png)
-
-
-# Example projects
-
-https://osf.io/w38tu/
-
+> The Open Science Framework is a project of the Centre for Open Science with funding from a wide range of funders. The Open Science Framework aims to make Open Science easier for researchers by providing a platform for hosting, documentation, data, notebooks and linking to a range of other tools.
 
 ---
+
+# Setting up a notebook
