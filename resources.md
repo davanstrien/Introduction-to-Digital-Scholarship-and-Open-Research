@@ -24,6 +24,8 @@
 
 # Research Software
 
+- [Software Carpentry](https://software-carpentry.org/) provides regular training on research software best pracitces. Training takes place reguarly at UCL. 
+
 - A list collecting examples of Open Science software being used in research: <https://github.com/INRIA/awesome-open-science-software>
 
 - [The Software Sustainability Institute](https://www.software.ac.uk/) provides support and guidance on effectively creating and using research software. 
@@ -33,9 +35,8 @@
 - [Using the Jupyter Notebook as a Tool for Open Science: An Empirical Study](http://ieeexplore.ieee.org/abstract/document/7991618/)
 
 
-
 ## UCL resources
 - [Discovery](discovery.ucl.ac.uk) - UCL's Open Acess Repository for publications 
 - [UCL Research Data Management guidance](http://www.ucl.ac.uk/library/research-support/research-data)
+- [UCL Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) 
 
-Using the Jupyter Notebook as a Tool for Open Science: An Empirical Study - http://ieeexplore.ieee.org/abstract/document/7991618/?reload=true
