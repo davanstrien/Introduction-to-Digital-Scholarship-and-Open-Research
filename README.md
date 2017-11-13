@@ -4,7 +4,7 @@ This repository collects workshop materials for a course introducing digital sch
 
 ## Slides
 
-You can find slides on Open Science and Digtial Scholarship and Open Notebook Research. 
+You can find slides on [Open Science and Digtial Scholarship](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/open-science-slides.pdf) and [Open Notebook Research](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/open-notebook-slides.pdf). 
 
 The slides were produced using pandoc and Beamer using the [UCL Beamer Template](https://github.com/UCL/ucl-beamer) by Simon Byrne (based on the original template by Maurizio Filippone). 
 
