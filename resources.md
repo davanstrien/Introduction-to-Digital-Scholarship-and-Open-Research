@@ -8,7 +8,7 @@
 
 * An overview of funder policies on data sharing can be found on UCL's [Research Data Management page](http://www.ucl.ac.uk/library/research-support/research-data/policies/research-councils)
 
-* [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) - a project from Mozila Science offering guidance on data reuse. 
+* [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) - a project from Mozilla Science offering guidance on data reuse. 
 
 * A [checklist](http://mozillascience.github.io/checklist) on making data reusable from the [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/). 
 
