@@ -170,9 +170,9 @@ The Open Science Framework provides some support for versioning of files and doc
 
 The Open Science Framework provides a useful tool for doing open notebook research without too much additional set up but there are other approaches you could explore.
 
-- A 'wiki' based approach which primarily collects notes gathered from visits to archives and engagements with other primary and secondary materials. [http://wiki.wcaleb.rice.edu/]().
+- A 'wiki' based approach which primarily collects notes gathered from visits to archives and engagements with other primary and secondary materials: <http://wiki.wcaleb.rice.edu/>
 
-- GitHub Pages provide an easy way of building a version controlled website. This [tutorial][https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages] outlines how to setup a GitHub pages website. This approach could be adapted to use on a narrative based open notebook.
+- GitHub Pages provide an easy way of building a version controlled website. This [tutorial](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) outlines how to setup a GitHub pages website. This approach could be adapted to use on a narrative based open notebook.
 
 ### Open book drafts
 
