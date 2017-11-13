@@ -12,7 +12,16 @@ title: An introduction to Digital Scholarship and Open Research
 
 ---
 
-<!--TODO Schedule slide--->
+# Schedule
+
+|Topic   |Time   |
+|--:|---|
+|Open Science and Digital Scholarship   | 13:30 - 14:15   |
+| Break   | 14:15 - 14:30   |
+|Open Notebook Research   | 14:30 - 15:00  |
+| Open Science Framework   | 15:00 - 15:30    |
+| Break   | 15:30 - 15:45   |
+|Setting up a notebook   | 15:45 -   |
 
 
 # Definitions
