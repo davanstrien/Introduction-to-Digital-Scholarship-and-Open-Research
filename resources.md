@@ -1,9 +1,18 @@
 # Open Science
 
+
 - https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/data_reuse_plan_template.md
+-
 
-https://opensource.com/life/15/7/open-science-projects-you-might-have-missed
+## Data Sharing
 
+
+## Data Reuse
+
+
+
+
+## Digital Scholarship
 
 
 
@@ -11,10 +20,6 @@ https://opensource.com/life/15/7/open-science-projects-you-might-have-missed
 
 ## Examples
 http://adni.loni.usc.edu/data-samples/
-
-## Open notebook
-https://scinote.net
-
 
 
 ## Pre-registration
