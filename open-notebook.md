@@ -61,7 +61,6 @@ title: Open Notebook research
 # Using open notebooks to facilitate more open research
 
 > - Open notebooks could be a good starting point for helping carry out more open research
-
 > - Help with data sharing best practices
 > - Documentation
 > - Facilitate collaboration
@@ -156,4 +155,4 @@ Use some type of version control system for your data, code and other documentat
 
 ---
 
-# Setting up a notebook
+# Setting up a notebook...

@@ -65,9 +65,11 @@ Technical changes that make more open science easier
 
 # Medieval Scientific communication
 
-The 10th century astronomer Abd al-Rahman al-Sufi (Azophi) carried out observations of the stars and described their positions, magnitudes, brightness, and colour and drawings for each constellation in his *Book of Fixed Stars*.
+The 10th century astronomer Abd al-Rahman al-Sufi (Azophi) carried out observations of the stars and described their positions, magnitudes, brightness, and colour and drawings for each constellation in his Book of Fixed Stars.
 
-[The constellation Sagittarius from The Depiction of Celestial Constellations](images/book_al_sufi.png)
+---
+
+![The constellation Sagittarius from The Depiction of Celestial Constellations](images/book_al_sufi.png)
 
 
 ---
@@ -82,7 +84,11 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Internet publishing
 
->'GGG is a purely electronic journal, with no paper edition. This opens up the possibilities of using true multimedia data types in the presentation of a paper. As the capabilities of the World Wide Web grow it will be feasible to have papers containing animations, sound, video, active computer models, etc.' - https://web.archive.org/web/19970709001656/http://ggg.qub.ac.uk:80/ggg/papers/index.html
+>'GGG is a purely electronic journal, with no paper edition. This opens up the possibilities of using true multimedia data types in the presentation of a paper. As the capabilities of the World Wide Web grow it will be feasible to have papers containing animations, sound, video, active computer models, etc.' - http://ggg.qub.ac.uk:80/ggg/papers/index.html
+
+---
+
+# GGG Journal
 
 ![GGG](images/GGG_journal.jpg)
 
@@ -132,7 +138,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 # Over half of psychology studies fail reproducibility test
 
-> 'In the biggest project of its kind, Brian Nosek, a social psychologist and head of the Center for Open Science in Charlottesville, Virginia, and 269 co-authors repeated work reported in 98 original papers from three psychology journals, to see if they independently came up with the same results...only 39 of the 100 replication attempts were successful' - https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
+> 'In the biggest project of its kind, Brian Nosek, a social psychologist and head of the Center for Open Science in Charlottesville, Virginia, and 269 co-authors repeated work reported in 98 original papers from three psychology journals, to see if they independently came up with the same results...only 39 of the 100 replication attempts were successful' -
+
+https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
 
 ---
 
@@ -144,7 +152,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ## Sluggish data sharing hampers reproducibility effort
 
-> 'The Reproducibility Initiative: Cancer Biology consortium aims to repeat experiments from 50 highly-cited studies published in 2010–12 in journals such as Nature, Cell and Science, to see how easy it is to reproduce their findings. Although these journals require authors to share their data on request, it has taken two months on average to get the data for each paper...For one paper, securing the necessary data took a year. And the authors of four other papers have stopped communicating with the project altogether. In those instances, the journals that published the studies are stepping in to remind researchers of their responsibilities.' - http://www.nature.com/news/sluggish-data-sharing-hampers-reproducibility-effort-1.17694
+> 'The Reproducibility Initiative: Cancer Biology consortium aims to repeat experiments from 50 highly-cited studies published in 2010–12 in journals such as Nature, Cell and Science, to see how easy it is to reproduce their findings. Although these journals require authors to share their data on request, it has taken two months on average to get the data for each paper...For one paper, securing the necessary data took a year. And the authors of four other papers have stopped communicating with the project altogether. In those instances, the journals that published the studies are stepping in to remind researchers of their responsibilities.' -
+
+http://www.nature.com/news/sluggish-data-sharing-hampers-reproducibility-effort-1.17694
 
 
 ---
@@ -153,7 +163,9 @@ Johannes Gutenberg developed his printing press around 1440. The invention of ma
 
 ## Excel fail
 
-> 'Harvard University economists Carmen Reinhart and Kenneth Rogoff have acknowledged making a spreadsheet calculation mistake in a 2010 research paper, “Growth in a Time of Debt” (PDF), which has been widely cited to justify budget-cutting. But the authors stand by their conclusion that higher government debt is associated with slower economic growth. Here’s what you need to know:' - https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history
+> 'Harvard University economists Carmen Reinhart and Kenneth Rogoff have acknowledged making a spreadsheet calculation mistake in a 2010 research paper, “Growth in a Time of Debt” (PDF), which has been widely cited to justify budget-cutting. But the authors stand by their conclusion that higher government debt is associated with slower economic growth. Here’s what you need to know:'
+
+https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history
 
 ---
 # Availability of code and software
