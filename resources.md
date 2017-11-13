@@ -8,7 +8,7 @@
 
 * An overview of funder policies on data sharing can be found on UCL's [Research Data Management page](http://www.ucl.ac.uk/library/research-support/research-data/policies/research-councils)
 
-* [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) - a project from Mozila Science offereing guidance on data reuse. 
+* [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) - a project from Mozila Science offering guidance on data reuse. 
 
 * A [checklist](http://mozillascience.github.io/checklist) on making data reusable from the [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/). 
 
@@ -24,7 +24,7 @@
 
 # Research Software
 
-- [Software Carpentry](https://software-carpentry.org/) provides regular training on research software best pracitces. Training takes place reguarly at UCL. 
+- [Software Carpentry](https://software-carpentry.org/) provides regular training on research software best practices. Training takes place reguarly at UCL. 
 
 - A list collecting examples of Open Science software being used in research: <https://github.com/INRIA/awesome-open-science-software>
 
