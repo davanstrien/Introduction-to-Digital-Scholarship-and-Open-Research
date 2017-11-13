@@ -15,8 +15,6 @@
 ### Examples of good practice around data sharing
 - http://adni.loni.usc.edu/data-samples/
 
-## Digital Scholarship
-
 
 ## Pre-registration
 
