@@ -155,14 +155,18 @@ A README may provide information on instruments used, the types of experiments c
 
 ## Persistent identifiers
 
-Persistent identifiers provide a stable way of referencing your research.
+Persistent identifiers provide a stable way of referencing your research. Project with the Open Science Framework are assigned a DOI. You can find further   guidance on using DOIs [here](http://help.osf.io/m/sharing/l/524208-create-dois-and-arks).
 
 
 ## Version control
 
 The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: <http://help.osf.io/m/files/l/524182-file-revisions-and-version-control>.
 
+## Further Resources on using the Open Science Framework
 
+- The Open Science Framework provides documentation, support and FAQs [here](https://osf.io/support/)
+
+- The Open Science Framework has regular webinars. The OSF [mailing list](https://groups.google.com/forum/#!forum/openscienceframework) will advertise upcoming webinars.
 
 ---
 
@@ -182,8 +186,6 @@ These examples demonstrate the potential use of open notebook approaches for boo
 
 - [Computational Historical Thinking With Applications in R](http://dh-r.lincolnmullen.com/)
 
-## Further Resources on using the Open Science Framework
+# Further resources:
 
-- The Open Science Framework provides documentation, support and FAQs [here](https://osf.io/support/)
-
-- The Open Science Framework has regular webinars. The OSF [mailing list](https://groups.google.com/forum/#!forum/openscienceframework) will advertise upcoming webinars.
+You can find further resources on Open Science/Research and related topics [here](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/resources.md)
