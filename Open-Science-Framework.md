@@ -40,7 +40,7 @@ Exploring existing projects on the Open Science Framework may help to get a bett
 - Kardas, Michael, Juliana Schroeder, and Nicholas Epley. 2017. “Humanizing Voice, Political Beliefs.” Open Science Framework. September 29. osf.io/nm8vf.
 - IJzerman, Hans, Siegwart Lindenberg, İlker Dalğar, Michal Parzuchowski, Rodrigo Brito, Claudia Simao, Charles R Ebersole, et al. 2016. “The Human Penguin Project.” Open Science Framework. October 6. [https://osf.io/2rm5b]().
 
-- Amon, Hanna, Molly Sterlacci, Åse Innes-Ker, and Anna, Ph.D. Kemdal Pho. 2015. “Do Swedish and American Subjects Exhibit Differences in Well-Being, Life Satisfaction and Emotion Regulation?” Open Science Framework. October 29. [https://osf.io/d6rks]().
+- Amon, Hanna, Molly Sterlacci, Åse Innes-Ker, and Anna, Ph.D. Kemdal Pho. 2015. “Do Swedish and American Subjects Exhibit Differences in Well-Being, Life Satisfaction and Emotion Regulation?” Open Science Framework. October 29. <https://osf.io/d6rks>
 
 ## Setting up your own notebook
 The following steps will help you setup an open notebook:
