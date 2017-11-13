@@ -2,6 +2,8 @@
 
 This repository collects workshop materials for a [course](http://www.ucl.ac.uk/hr/od/rdp/odid/) introducing digital scholarship and open research through Open Notebook research using the Open Science Framework as an example. 
 
+The materials in this repository will be updated in preparation for each version of the course. 
+
 ## Slides
 
 You can find slides on [Open Science and Digtial Scholarship](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/open-science-slides.pdf) and [Open Notebook Research](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/open-notebook-slides.pdf). 
