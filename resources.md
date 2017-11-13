@@ -24,7 +24,7 @@
 
 # Research Software
 
-- [Software Carpentry](https://software-carpentry.org/) provides regular training on research software best practices. Training takes place reguarly at UCL. 
+- [Software Carpentry](https://software-carpentry.org/) provides regular training on research software best practices. UCL has software carpentry sessions organised by [Research IT Services](http://www.ucl.ac.uk/isd/services/research-it/training)
 
 - A list collecting examples of Open Science software being used in research: <https://github.com/INRIA/awesome-open-science-software>
 
