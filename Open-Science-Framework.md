@@ -15,7 +15,7 @@ It is quick and free to create an account with the Open Science Framework.
 
 ### ORCID ID
 
-* The Open Science Framework allows integration with ORCID ID. ORCID []'provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'](https://orcid.org/register)
+* The Open Science Framework allows integration with ORCID ID. ORCID ['provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.'](https://orcid.org/)
 
 * You can register easily for an ORCID at <https://orcid.org/register>. It is a good idea to use a personal email so that you can easily move your ORCID ID if you change institutions.
 
