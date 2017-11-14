@@ -97,6 +97,8 @@ You may find a 'template' project which have been created to help researchers us
 * A template for a lab notebook - <https://osf.io/sesm4/wiki/home/>
 * 'Estimating the Reproducibility of Psychological Science' collects projects which were included in a project to reproduce existing papers in psychology <https://osf.io/ezcuj/wiki/home>
 
+Even if you don't use these template projects they may help you think about effective ways of presenting information to other people. 
+
 ## Creating a new project
 
 ## Organization of an Open Science Framework project
@@ -134,7 +136,6 @@ You can find more guidance on organizing files here: <http://help.osf.io/m/bestp
 
 A useful feature of the Open Science Framework is that it will integrate with different 'add-ons'. This makes it a useful tool for collating different outputs from a project whilst allowing people to use existing tools. These add-ons include a number of cloud storage providers, [Figshare](https://figshare.com), and [Mendeley](https://www.mendeley.com/) and [Zotero](https://www.zotero.org/) citation managers.
 
-
 ## Documentation
 
 Good documentation is a central component of open research. Even if you do not intend to use open notebooks in the future good documentation can be valuable for a project and for the sharing of code and data associated with a publication.
@@ -155,7 +156,7 @@ A README may provide information on instruments used, the types of experiments c
 
 ## Persistent identifiers
 
-Persistent identifiers provide a stable way of referencing your research. Project with the Open Science Framework are assigned a DOI. You can find further   guidance on using DOIs [here](http://help.osf.io/m/sharing/l/524208-create-dois-and-arks).
+Persistent identifiers provide a stable way of referencing your research. Project with the Open Science Framework are assigned a DOI. You can find further guidance on using DOIs [here](http://help.osf.io/m/sharing/l/524208-create-dois-and-arks).
 
 
 ## Version control
