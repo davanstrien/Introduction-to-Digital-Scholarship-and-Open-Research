@@ -43,7 +43,7 @@ Exploring existing projects on the Open Science Framework may help to get a bett
 - Amon, Hanna, Molly Sterlacci, Åse Innes-Ker, and Anna, Ph.D. Kemdal Pho. 2015. “Do Swedish and American Subjects Exhibit Differences in Well-Being, Life Satisfaction and Emotion Regulation?” Open Science Framework. October 29. <https://osf.io/d6rks>
 
 ## Setting up your own notebook
-The following steps will help you setup an open notebook:
+The following steps will help you setup an open notebook. Many of the considerations you can make when forming an Open Notebook using the Open Science Framework will be similar to those you make when publishing open access, sharing data in a repository and sharing code and methods.
 
 ### Decide on a project
 
@@ -162,6 +162,7 @@ Persistent identifiers provide a stable way of referencing your research. Projec
 ## Version control
 
 The Open Science Framework provides some support for versioning of files and documentation. When a new version of a document is uploaded with the same name a new version will be created. You will be able to view changes to a file and download previous versions of a document. You can view more information on version control here: <http://help.osf.io/m/files/l/524182-file-revisions-and-version-control>.
+
 
 ## Further Resources on using the Open Science Framework
 
