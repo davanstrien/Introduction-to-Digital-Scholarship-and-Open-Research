@@ -64,9 +64,9 @@ If you decide that you will make your notebook public, or you later decide to ma
 You can assign a standard license to your open notebook or upload a custom license. Most of the time it is preferable to use a standard license rather than develop a custom one. If your notebook is part of a funded research project then your funder may encourage (or require) a particular license.
 
 Sometimes you may want to use different licenses for different parts of your project for example:
-- for software/code you may use an MIT license
-- for raw data you might use CC0  
-- for Documentation, wikis, and other outputs: CC-BY
+- for software/code you may use an [MIT license](https://opensource.org/licenses/MIT)
+- for raw data you might use [CC0](https://creativecommons.org/publicdomain/zero/1.0/)  
+- for Documentation, wikis, and other outputs: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 ### Further guidance on licensing
 
