@@ -16,3 +16,4 @@ TODO - Tidy slide source and output and create Makefile to produce slides from M
 
 Guidance on creating an open notebook can be found [here](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/Open-Science-Framework.md)
 
+Licence: [CC-BY](https://github.com/davanstrien/Introduction-to-Digital-Scholarship-and-Open-Research/blob/master/LICENCE.md)
